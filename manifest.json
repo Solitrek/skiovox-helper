@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "REDACTED",
+  "version": "0",
   "name": "Abyss",
   "description": "A helper for the Skiovox exploit -- read more at skiovox.com",
   "icons": {
