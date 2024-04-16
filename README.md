@@ -1,5 +1,5 @@
-# Skiovox Helper
-### The helper extension for the Skiovox exploit.
+# Abyss
+### The alternative extension for Skiovox Helper.
 
 ## Install
 
